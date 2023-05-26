@@ -5,7 +5,7 @@ namespace Controller;
 use Entities\Post;
 use Exceptions\EntityNotFoundException;
 
-class HomeController extends Controller
+class PageController extends Controller
 {
     /**
      * @param string $slug
