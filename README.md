@@ -1,1 +1,1 @@
-## Please don't forget to run `composer install` commmand to install dependicies
+## Please don't forget to run `composer install` command to install dependencies
